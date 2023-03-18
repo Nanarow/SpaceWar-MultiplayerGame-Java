@@ -2,6 +2,8 @@
 Java multiplayer game using java.swing , java.net in local area network (LAN)
 server and clients
 
+made it after learning Object-oriented programming (OOP) in college
+
 ## Installation
 
 ```bash
@@ -26,3 +28,5 @@ ngrok tcp 4004
 ![enter image description here](https://github.com/Nanarow/SpaceWarMultiplayerGameInJava/blob/main/ingameScreenshot.png?raw=true)
 move keys: **W, A, S, D**
 skill keys: **RightClick , spacebar ,Q , X**
+## Credit
+assets by **Krist**
