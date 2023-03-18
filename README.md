@@ -29,4 +29,5 @@ ngrok tcp 4004
 move keys: **W, A, S, D**
 skill keys: **RightClick , spacebar ,Q , X**
 ## Credit
-assets by **Krist**
+assets by [**Kristbooker**](https://github.com/Kristbooker)
+
