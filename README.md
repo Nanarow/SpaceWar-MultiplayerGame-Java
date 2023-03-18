@@ -28,6 +28,7 @@ ngrok tcp 4004
 ![enter image description here](https://github.com/Nanarow/SpaceWarMultiplayerGameInJava/blob/main/ingameScreenshot.png?raw=true)
 move keys: **W, A, S, D**
 skill keys: **RightClick , spacebar ,Q , X**
-## Credit
-assets by [**Kristbooker**](https://github.com/Kristbooker)
 
+## Credit
+coding by [**Nanarow**](https://github.com/Nanarow)
+assets by [**Kristbooker**](https://github.com/Kristbooker)
